@@ -1,5 +1,5 @@
 # Chat_App
 React time Chat application.
-<ul> Features </ul>
+<h6> Features </h6>
 <li>socket.io</li>
 <li>Authentication & Authorization </li>
